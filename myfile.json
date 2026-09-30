@@ -1,5 +1,6 @@
+THIS IS USED FOR NOTHING GO TO ReBoot_vars to update the Splash notifications for all users
 {
-  "version": "0.0.02",
+  "version": "X.X.XX",
   "pop-up_user_Notification": "This is text to be used for testing purposes",
   "UDF": "HERE IS ANCILLARY TEXT USED FOR DEVELOPMENT"
 }
